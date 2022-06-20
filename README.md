@@ -4,7 +4,7 @@ With over 10 years of experience in product management, user experience and busi
 
 Combining analytical skills, creative thinking and effective communication, I deliver value to both customers and users. I'm goal-oriented, curious and loves to learn new things.
 
-I'm currently working for [Nimble](https://nimblehq.co/) as Senior Product Manager. In recent experiences, I got the opportunity to improve agile processes and craft product strategy for various PropTech companies.
+I'm currently working for [Nimble](https://github.com/nimblehq) as [Lead Product Manager](https://nimblehq.co/compass/team/roles/lead-product-manager/). In recent experiences, I got the opportunity to improve agile processes and craft product strategy for various PropTech companies.
 
 ## Get in touch
 
