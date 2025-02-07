@@ -1,16 +1,10 @@
 # About me
 
-With over 10 years of experience in product management, user experience and business development, I **transform ideas into digital products that people want to use.**
+With nearly 14 years of experience in product management, business, and UX, I turn ideas into digital products people love. My expertise spans strategy, design, and development, giving me a unique ability to align vision with execution.
 
-Combining analytical skills, creative thinking and effective communication, I deliver value to both customers and users. I'm goal-oriented, curious and loves to learn new things.
+I thrive on solving complex problems, optimizing processes, and driving results. Beyond product development, I have a deep understanding of marketing, sales, and support—allowing me to connect the dots across teams.
 
-I'm currently working for [Nimble](https://github.com/nimblehq) as [Lead Product Manager](https://nimblehq.co/compass/team/roles/lead-product-manager/). In recent experiences, I got the opportunity to improve agile processes and craft product strategy for various PropTech companies.
-
+I'm currently working for [Nimble](https://github.com/nimblehq) as [Principal Product Manager](https://nimblehq.co/compass/team/roles/lead-product-manager/).
 ## Get in touch
 
 - [Check out my website](https://siamkreative.com/) to get in touch with me.
-
-## Recent certifications
-
-| ![Julien Vernet AWS Certification!](https://images.youracclaim.com/size/110x110/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png) | I gave myself 30 days to learn, prepare and get this certification. I successfully passed on February 11th, 2021. [View badge](https://www.youracclaim.com/earner/earned/badge/31464ae4-5ac2-4471-86d0-fd02464ced6f) |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
